@@ -1,11 +1,17 @@
 ### Hi there 👋
 I'm Alexis, a full stack web developer and creative who is passionate about the intersection between technology, art, and design. I am from the United States, but am currently based in Australia.
 ### About Me
-+ 📷 I have a background in Visual Arts and am a fine art photographer, as well as a graphic designer.
++ 📷 I have a background in Visual Arts and am a fine art photographer, as well as a web & graphic designer.
 + 💻 I transitioned to web development in 2021 and hold a Certificate IV in Web Development. I will complete my Diploma in Back End Web Development in June 2024.
 + ⌨ I'm currently working on various freelance web development projects using WordPress, as well as HTML, CSS, Javascript, PHP, and MySQL.
 + 📚 I'm currently learning AWS Cloud Operations.
-
+### Projects
+### Tools
++ Coding Languages: HTML, CSS, JavaScript, PHP, C#, SQL,and MQL
++ Database Management Systems: MySQL and NoSQL (MongoDB)
++ Frameworks: AngularJS, NodeJS
++ Content Management Systems: WordPress
++ Design Tools: Adobe Creative Suite, Canva, MS Visio
 <!--
 **AlexisTBerk/AlexisTBerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
