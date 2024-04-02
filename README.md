@@ -5,7 +5,8 @@ I'm Alexis, a full stack web developer and creative who is passionate about the 
 + 💻 I transitioned to web development in 2021 and hold a Certificate IV in Web Development. I will complete my Diploma in Back End Web Development in June 2024.
 + ⌨ I'm currently working on various freelance web development projects using WordPress, as well as HTML, CSS, Javascript, PHP, and MySQL.
 + 📚 I'm currently learning AWS Cloud Operations.
-### Projects
+### Portfolio
+Take a look at my [portfolio] to view my projects.
 ### Tools
 + Coding Languages: HTML, CSS, JavaScript, PHP, C#, SQL,and MQL
 + Database Management Systems: MySQL, MariaDB,  NoSQL (MongoDB)
