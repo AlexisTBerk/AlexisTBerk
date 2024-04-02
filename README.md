@@ -8,7 +8,7 @@ I'm Alexis, a full stack web developer and creative who is passionate about the 
 ### Projects
 ### Tools
 + Coding Languages: HTML, CSS, JavaScript, PHP, C#, SQL,and MQL
-+ Database Management Systems: MySQL and NoSQL (MongoDB)
++ Database Management Systems: MySQL, MariaDB,  NoSQL (MongoDB)
 + Frameworks: AngularJS, NodeJS
 + Content Management Systems: WordPress
 + Design Tools: Adobe Creative Suite, Canva, MS Visio
