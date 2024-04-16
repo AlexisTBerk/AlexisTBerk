@@ -14,7 +14,7 @@ Take a look at my [portfolio](https://github.com/AlexisTBerk/Portfolio) to view 
 + Content Management Systems: WordPress
 + Design Tools: Adobe Creative Suite, Canva, MS Visio
 ### Connect With Me
-[LinkedIn](https://www.linkedin.com/in/alexis-treulieb)
++Find me on [LinkedIn](https://www.linkedin.com/in/alexis-treulieb-berk)
 <!--
 **AlexisTBerk/AlexisTBerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
